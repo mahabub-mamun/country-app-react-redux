@@ -1,3 +1,5 @@
+# This is a test purpose application for establish a jenkins pipeline
+
 # Country App with React-Redux & TypeScript
 
 ### [Demo of the country app](https://country-app-react-redux.netlify.app/)
